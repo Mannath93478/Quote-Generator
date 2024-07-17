@@ -12,7 +12,7 @@ This quote generator brings inspiration to your fingertips. Get inspired with a 
 
 Live Demo:
 
-
+https://mannath-quote-generator.netlify.app/
 
 ![alt text](images/demo.png)
 
